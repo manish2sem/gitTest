@@ -1,1 +1,2 @@
-This is for git, og
+This is for git, 
+New line added
